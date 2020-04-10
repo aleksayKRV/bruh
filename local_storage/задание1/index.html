@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>local storage</title>
+</head>
+<body>
+<textarea id="text">text</textarea><br>
+<button id="but">сохранить</button>
+<script type="text/javascript">
+	var text = localStorage.getItem("1");
+	document.getElementById("text").value = text;
+</script>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="script.js"></script>
+</body>
+</html>
