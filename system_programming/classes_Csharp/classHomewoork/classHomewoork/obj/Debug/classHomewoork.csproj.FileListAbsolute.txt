@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\bin\Debug\classHomewoork.exe.config
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\bin\Debug\classHomewoork.exe
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\bin\Debug\classHomewoork.pdb
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\obj\Debug\classHomewoork.csprojAssemblyReference.cache
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\obj\Debug\classHomewoork.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\obj\Debug\classHomewoork.exe
+C:\Users\1\Desktop\system_programming\classes_Csharp\classHomewoork\classHomewoork\obj\Debug\classHomewoork.pdb
